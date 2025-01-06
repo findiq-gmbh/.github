@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Default bug report template
+about: This template should give you rough guidance what you need to add to bug report
 title: ''
 labels: bug
 assignees: ''
