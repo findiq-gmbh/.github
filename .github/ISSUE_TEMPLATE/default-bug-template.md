@@ -1,8 +1,8 @@
 ---
-name: Bug report via Intercom
+name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: bug, intercom
+labels: bug
 assignees: ''
 
 ---
