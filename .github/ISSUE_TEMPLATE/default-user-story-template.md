@@ -1,6 +1,6 @@
 ---
 name: Default User Story Template
-about: This template should give you rough guidance what you need to add to a userstory
+about: This template should give you rough guidance what you need to add to an User Story
 title: ''
 labels: ''
 assignees: ''
