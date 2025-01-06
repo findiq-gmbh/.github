@@ -1,6 +1,6 @@
 ---
-name: Default bug report template
-about: This template should give you rough guidance what you need to add to bug report
+name: Default Bug Report template
+about: This template should give you rough guidance what you need to add to a Bug Report
 title: ''
 labels: bug
 assignees: ''
