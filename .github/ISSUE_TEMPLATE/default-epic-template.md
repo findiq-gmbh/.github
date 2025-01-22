@@ -4,6 +4,7 @@ about: This template should give you rough guidance what you need to add to an E
 title: ''
 labels: 'epic'
 assignees: ''
+type: feature
 
 ---
 # User goal
