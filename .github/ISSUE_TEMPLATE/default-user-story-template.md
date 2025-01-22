@@ -4,6 +4,7 @@ about: This template should give you rough guidance what you need to add to a Us
 title: ''
 labels: ''
 assignees: ''
+type: task
 
 ---
 
